@@ -1,8 +1,14 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,techpowerup.com
 DOMAIN-SUFFIX,tpucdn.com
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,radeon.com
+DOMAIN-SUFFIX,amd.com.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,epicgames
+DOMAIN-KEYWORD,intel
 
-
+# 域名完全匹配
+DOMAIN,www.amd.com
