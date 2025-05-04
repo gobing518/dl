@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
-# apple-intelligence
+# Apple Intelligence
 DOMAIN,apple-relay.mask.apple-dns.net
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
