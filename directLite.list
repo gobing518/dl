@@ -5,10 +5,15 @@ DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amdfanstore.com
 DOMAIN-SUFFIX,radeon.com
 DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,shotwithgeforce.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,epicgames
 DOMAIN-KEYWORD,intel
+DOMAIN-KEYWORD,nvidia
+DOMAIN-KEYWORD,tegrazone
+DOMAIN-KEYWORD,gputechconf
+DOMAIN-KEYWORD,geforce
 
 # 域名完全匹配
 DOMAIN,www.amd.com
