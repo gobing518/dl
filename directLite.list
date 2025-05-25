@@ -1,3 +1,7 @@
+# 域名完全匹配
+DOMAIN,www.amd.com
+DOMAIN,board.zash.run.place
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,techpowerup.com
 DOMAIN-SUFFIX,tpucdn.com
@@ -14,6 +18,3 @@ DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,tegrazone
 DOMAIN-KEYWORD,gputechconf
 DOMAIN-KEYWORD,geforce
-
-# 域名完全匹配
-DOMAIN,www.amd.com
