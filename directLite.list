@@ -1,6 +1,7 @@
 # 域名完全匹配
 DOMAIN,www.amd.com
 # DOMAIN,myip.ipip.net
+# DOMAIN,r.inews.qq.com
 DOMAIN,board.zash.run.place
 
 # 域名后缀匹配
