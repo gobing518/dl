@@ -3,7 +3,6 @@ DOMAIN,www.amd.com
 # DOMAIN,myip.ipip.net
 # DOMAIN,r.inews.qq.com
 DOMAIN,board.zash.run.place
-DOMAIN,viking-links.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,techpowerup.com
