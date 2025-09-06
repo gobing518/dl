@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,amdfanstore.com
 DOMAIN-SUFFIX,radeon.com
 DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,shotwithgeforce.com
+
+# 电视直播域名
 DOMAIN-SUFFIX,qzz.io
 DOMAIN-SUFFIX,1678520.xyz
 DOMAIN-SUFFIX,163189.xyz
