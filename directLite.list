@@ -14,8 +14,10 @@ DOMAIN-SUFFIX,shotwithgeforce.com
 
 # 电视直播域名
 DOMAIN-SUFFIX,qzz.io
+DOMAIN-SUFFIX,loc.cc
 DOMAIN-SUFFIX,1678520.xyz
 DOMAIN-SUFFIX,163189.xyz
+DOMAIN-SUFFIX,4666888.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,epicgames
