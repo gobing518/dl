@@ -6,6 +6,7 @@ DOMAIN,store.rg-adguard.net
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,skrbtso.top
 DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,2048.info
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
