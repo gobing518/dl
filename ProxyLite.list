@@ -1,6 +1,8 @@
 # 域名完全匹配
 DOMAIN,bptv.freetv.top
 DOMAIN,store.rg-adguard.net
+DOMAIN,www.bing.com
+DOMAIN,r.bing.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
@@ -8,7 +10,6 @@ DOMAIN-SUFFIX,skrbtso.top
 DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,2048.info
 DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,bing.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
