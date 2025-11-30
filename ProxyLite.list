@@ -17,9 +17,11 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,1e100
 
 # Apple Intelligence
-DOMAIN,apple-relay.mask.apple-dns.net
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,gspe1-ssl.ls.apple.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
