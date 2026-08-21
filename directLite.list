@@ -6,7 +6,6 @@ DOMAIN,fash2043.cloudycdn.services
 DOMAIN,edgedl.me.gvt1.com
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,techpowerup.com
 DOMAIN-SUFFIX,tpucdn.com
 DOMAIN-SUFFIX,amd.com
@@ -18,6 +17,7 @@ DOMAIN-SUFFIX,mirillis.com
 DOMAIN-SUFFIX,play.sportsteam368.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,samsung
 DOMAIN-KEYWORD,kaspersky
 DOMAIN-KEYWORD,epicgames
 DOMAIN-KEYWORD,intel
